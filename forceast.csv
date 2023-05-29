@@ -1,0 +1,42 @@
+﻿Count of Order_Quantity,Column Labels,,,
+years,Accessories,Bikes,Clothing,Grand Total
+2011,,2677,,2677
+2012,,2677,,2677
+2013,15025,5710,3708,24443
+2014,20035,4604,4759,29398
+2015,15025,5710,3708,24443
+2016,20035,4604,4759,29398
+Grand Total,70120,25982,16934,113036
+,,,,
+,,,,
+years,Accessories,Forecast(Accessories),Lower Confidence Bound(Accessories),Upper Confidence Bound(Accessories)
+2013,15025,,,
+2014,20035,,,
+2015,15025,,,
+2016,20035,20035,20035,20035
+2017,,19335.6721,14602.75,24068.59
+2018,,20412.80102,15679.86,25145.74
+,,,,
+,,,,
+,,,,
+years,Clothing,Forecast(Clothing),Lower Confidence Bound(Clothing),Upper Confidence Bound(Clothing)
+2013,3708,,,
+2014,4759,,,
+2015,3708,,,
+2016,4759,4759,4759,4759
+2017,,4612.294686,3619.42,5605.17
+2018,,4838.255264,3845.38,5831.13
+,,,,
+,,,,
+,,,,
+years,Bikes,Forecast(Bikes),Lower Confidence Bound(Bikes),Upper Confidence Bound(Bikes)
+2011,2677,,,
+2012,2677,,,
+2013,5710,,,
+2014,4604,,,
+2015,5710,,,
+2016,4604,4604,4604,4604
+2017,,6685.039596,5227.39,8142.69
+2018,,5678.307471,3716.27,7640.35
+2019,,7759.235579,5314.12,10204.35
+2020,,6752.503454,3975.61,9529.4
