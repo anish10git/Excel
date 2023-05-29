@@ -1,0 +1,27 @@
+﻿Sum of Profit,category,,,
+country,Accessories,Bikes,Clothing,Grand Total
+Australia,17.13%,23.57%,14.81%,21.03%
+Canada,16.00%,8.24%,21.41%,11.54%
+France,8.79%,9.31%,6.70%,8.94%
+Germany,10.23%,11.15%,5.85%,10.43%
+United Kingdom,12.92%,14.49%,10.39%,13.70%
+United States,34.92%,33.23%,40.85%,34.37%
+Grand Total,100.00%,100.00%,100.00%,100.00%
+,,,,
+Sum of Revenue,category,,,
+country,Accessories,Bikes,Clothing,Grand Total
+Australia,18.17%,27.44%,19.15%,24.98%
+Canada,15.10%,6.92%,16.46%,9.31%
+France,9.18%,10.24%,8.61%,9.89%
+Germany,10.24%,10.99%,7.61%,10.53%
+United Kingdom,12.39%,12.72%,10.94%,12.49%
+United States,34.92%,31.69%,37.23%,32.81%
+Grand Total,100.00%,100.00%,100.00%,100.00%
+,,,,
+,,,,
+Australia,21.03%,24.98%,,
+Canada,11.54%,9.31%,,
+France,8.94%,9.89%,,
+Germany,10.43%,10.53%,,
+United Kingdom,13.70%,12.49%,,
+United States,34.37%,32.81%,,
